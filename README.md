@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @migs1750 and a computer engineering person
+- 👋 Hi, I’m @migs1750 and a computer engineering student
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c++, java and python
 - 💞️ I’m looking to collaborate on ...
