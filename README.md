@@ -2,7 +2,7 @@
 - 📖 Interests in Mathematics, Sciences and Engineering
 - 🌱 Learning diverse fields
 - ✏️ I’m looking to collaborate and learn on who have the same interest.
-- Newbie na nag aaral
+- Newbie na nag aaral, average VS CODE user
 
 <!---
 migs1750/migs1750 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
